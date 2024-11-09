@@ -1,3 +1,7 @@
+#Created By : Rutu Shah
+#Created Date : 9th November 2024
+#This code demonstrates comparison of heap sort with merge sort and quick sort using matplotlib for graphical representation of time complexity
+
 import random
 import time
 from copy import deepcopy
